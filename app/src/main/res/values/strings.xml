@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Hero</string>
+    <string name="film">Film</string>
+    <string name="favorite">Favorite</string>
+    <string name="drama">Drama</string>
+
+    <array name="posterFilm">
+        <item>@drawable/hp</item>
+        <item>@drawable/fantastic_beasts</item>
+        <item>@drawable/grindelwald</item>
+        <item>@drawable/daytime</item>
+        <item>@drawable/the_flu</item>
+        <item>@drawable/interstellar</item>
+        <item>@drawable/a_quiet_place</item>
+    </array>
+    <string-array name="titleFilm">
+        <item>Harry Potter</item>
+        <item>Fantastic Beasts</item>
+        <item>Fantastic Beasts 2</item>
+        <item>Daytime Shooting Star</item>
+        <item>The Flu</item>
+        <item>Interstellar</item>
+        <item>A Quiet Place</item>
+    </string-array>
+    <string-array name="genreFilm">
+        <item>Fantasy, drama, young adult fiction, mistery, thriller, Bildungsroman</item>
+        <item>Fantasy, Adventure</item>
+        <item>Fantasy, Adventure</item>
+        <item>Comedy, Romance, School, Shouju, Slice of Life</item>
+        <item>Action, Drama, Sci-Fi</item>
+        <item>Sci-Fi, Action, Adventure</item>
+        <item>Drama, Horror, Sci-Fi</item>
+    </string-array>
+
+    <array name="posterDrama">
+        <item>@drawable/boys_over_flowers</item>
+        <item>@drawable/princess_hours</item>
+        <item>@drawable/days</item>
+        <item>@drawable/wwwyoung</item>
+        <item>@drawable/mr_queen</item>
+        <item>@drawable/alovesobeautiful</item>
+        <item>@drawable/goblin</item>
+        <item>@drawable/extra_you</item>
+        <item>@drawable/mr_sunshine</item>
+    </array>
+    <string-array name="titleDrama">
+        <item>Boys Over Flowers</item>
+        <item>Princess Hours</item>
+        <item>49 Days</item>
+        <item>When We Were Young</item>
+        <item>Mr. Queen</item>
+        <item>A Love So Beautiful</item>
+        <item>Goblin</item>
+        <item>Extraordinary You</item>
+        <item>Mr. Sunshine</item>
+    </string-array>
+    <string-array name="genreDrama">
+        <item>Romance, Comedy, Drama, School, Teen</item>
+        <item>Friendship, Comedy, Romance, School, Drama</item>
+        <item>Drama, Fantasy, Romance</item>
+        <item>Romance, School, Youth</item>
+        <item>History, Romance, Comedy, Fantasy</item>
+        <item>Friendship, Romance, Comedy, School</item>
+        <item>Fantasy, Drama, Romance</item>
+        <item>Fantasy, Romance, School</item>
+        <item>Romance, History, Melodrama</item>
+    </string-array>
+
+</resources>
